@@ -1,1 +1,1 @@
-# Handwritten Digit Classification 
+# Handwritten Digit - Capital Alphabet Classification 
